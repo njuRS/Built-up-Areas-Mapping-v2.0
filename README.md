@@ -18,7 +18,7 @@ Anaconda- os, shutil, sys, numpy(1.15.1), skimage(0.14.0), gdal(2.2.2).
 ![2](https://user-images.githubusercontent.com/46549560/55215174-d14ffa00-5233-11e9-8ca6-1ba6608621d0.jpg)
 4. Before running the 9th step, you need to create the training features manually in Arcmap, they can not create in python automatically.
 Add the ‘_nonbuilt_up_trainsample_dissolve.shp’ and ‘built_up_trainsample_dissolve.shp’ respectively into the training sample manager. Then save these feature classes as ‘merge_trainsample.shp’ in the ‘trainsamples’ file.  
-![3](https://user-images.githubusercontent.com/46549560/55215172-d14ffa00-5233-11e9-93fd-39b21f1bb8a9.jpg)
-![4](https://user-images.githubusercontent.com/46549560/55215169-d0b76380-5233-11e9-89fe-82cec7b3b671.jpg)
+![3](https://user-images.githubusercontent.com/46549560/55215417-b7fb7d80-5234-11e9-94ed-6e460e91db46.jpg)
+![4](https://user-images.githubusercontent.com/46549560/55215425-baf66e00-5234-11e9-88e2-ac60baa7a7cb.jpg)
 5. In the ‘image_result’ file, you will get the final mapping result of built-up areas. ‘result_bustack_TOA_LC08_L1TP_150038_20170605_20170616_01_T1’ .  
-![5](https://user-images.githubusercontent.com/46549560/55215168-d01ecd00-5233-11e9-951e-c606ff9aa19d.jpg)
+![5](https://user-images.githubusercontent.com/46549560/55215427-bd58c800-5234-11e9-983d-f7cd324dc894.jpg)
